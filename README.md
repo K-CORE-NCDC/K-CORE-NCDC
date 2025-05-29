@@ -1,16 +1,35 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://github.com/K-CORE-NCDC.png" width="180" alt="K-CORE Logo"/>
+</p>
 
-<!--
-**K-CORE-NCDC/K-CORE-NCDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Welcome to K-CORE-NCDC!</h2>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>National Cancer Data Center</b><br>
+  <a href="https://www.cancerdata.re.kr/k-core/">Website 🌐</a> &nbsp;|&nbsp;
+  <a href="mailto:wodn9614@ncc.re.kr">Email ✉️</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 📍 323, Ilsan-ro, Ilsandong-gu, Goyang-si, Gyeonggi-do, Republic of Korea
+- 🏢 National Cancer Data Center
+- 📈 Passionate about cancer data, research, and technology!
+
+---
+
+### 📊 Contribution Stats
+
+![](https://github-readme-stats.vercel.app/api?username=K-CORE-NCDC&show_icons=true&theme=default)
+
+---
+
+### 🚀 Projects
+
+- [synthetic-data-set](https://github.com/K-CORE-NCDC/synthetic-data-set)
+- [ncc-frontend](https://github.com/K-CORE-NCDC/ncc-frontend)
+- [ncc-backend](https://github.com/K-CORE-NCDC/ncc-backend)
+
+---
+
+![image1](image1)
