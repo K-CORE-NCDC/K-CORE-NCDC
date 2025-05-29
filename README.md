@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>National Cancer Data Center</b><br>
-  <a href="https://www.cancerdata.re.kr/k-core/">Website 🌐</a> &nbsp;|&nbsp;
+  <a href="https://www.cancerdata.re.kr/k-core/#">Website 🌐</a> &nbsp;|&nbsp;
   <a href="mailto:wodn9614@ncc.re.kr">Email ✉️</a>
 </p>
 
