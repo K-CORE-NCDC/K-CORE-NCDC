@@ -31,5 +31,3 @@
 - [ncc-backend](https://github.com/K-CORE-NCDC/ncc-backend)
 
 ---
-
-![image1](image1)
